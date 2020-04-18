@@ -1,0 +1,22 @@
+{
+  "name": "custom_api",
+  "version": "1.0.0",
+  "description": "try express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saladin2020/custom_api.git"
+  },
+  "keywords": [
+    "custom_api"
+  ],
+  "author": "saladin2020",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saladin2020/custom_api/issues"
+  },
+  "homepage": "https://github.com/Saladin2020/custom_api#readme"
+}
